@@ -1,4 +1,4 @@
-<h1><strong># GestureGameMaster</strong></h1>
+<h1><strong>GestureGameMaster</strong></h1>
 
 <p>An innovative tool for game control through hand gestures!</p>
 
